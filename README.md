@@ -49,5 +49,5 @@ Os resultados obtidos (e validados) nos percursos foram:
   ```
 
 4. Execute o programa:
-   * No Windows: `arvore.exe`
-   * No Linux/Mac: `./arvore`
+* No Windows: `arvore.exe`
+* No Linux/Mac: `./arvore`
