@@ -34,13 +34,19 @@ Os resultados obtidos (e validados) nos percursos foram:
 
 ### Passos (no terminal)
 1. Clone este repositório:
-  git clone https://github.com/LuisHey/arvore_binaria_busca_C
+  ```bash
+   git clone https://github.com/LuisHey/arvore_binaria_busca_C
+  ```
 
 2. Acesse a pasta do projeto:
+  ```bash
    cd arvore-binaria-busca-c
-
+  ```
+   
 3. Compile o código-fonte:
-   gcc arvore.c -o arvore
+  ```bash
+  gcc arvore.c -o arvore
+  ```
 
 4. Execute o programa:
   No Windows: arvore.exe
