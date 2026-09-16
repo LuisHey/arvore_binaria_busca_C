@@ -1,0 +1,4 @@
+Por que o percurso em ordem apresenta os números em ordem crescente quando aplicado a uma Árvore Binária de Busca?
+
+O percurso em ordem sempre apresenta os números em ordem crescente porque ele segue exatamente a mesma regra que usamos para construir a árvore. 
+Na Árvore Binária de Busca, todos os valores menores ficam na esquerda e os valores maiores na direita. Como o percurso em ordem visita obrigatoriamente primeiro a Esquerda (menores), depois a Raiz (o meio) e por fim a Direita (maiores), ele acaba imprimindo os valores naturalmente do menor para o maior.
